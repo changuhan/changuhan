@@ -1,4 +1,4 @@
-### Hi, I'm William
+### Hi, I'm Changu William Han
 
 I wake up and build neural nets — mostly for scientific data.
 
